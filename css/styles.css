@@ -37,6 +37,8 @@ body {
 
     color: var(--main-color);
     text-decoration: none;
+    line-height: 1.142;
+    letter-spacing: 0.02em;
 
 
 }
@@ -56,6 +58,8 @@ body {
     
     color: #757575;
     text-decoration: none;
+    line-height: 1.142;
+    letter-spacing: 0.02em;
 
 }
 /* END HEADER */
@@ -89,6 +93,7 @@ body {
 .lorem-ipsum-header
 {
     font-weight: 700;
+    line-height: 1.285;
 }
 
 .lorem-ipsum{
@@ -128,9 +133,13 @@ h2{
 .team-name{
     font-weight: 500;
     letter-spacing: 0.03em;
+    font-size: 16px;
+    line-height: 1.187;
         }
 .team-position {
     letter-spacing: 0.03em;
+    font-size: 16px;
+    line-height: 1.187;
  }
         
     
@@ -205,7 +214,7 @@ border:none;
 }
 .second-figure{
     font-size: 16px;
-    line-height:1,875;
+    line-height:1.875;
     color: #757575;
     letter-spacing: 0.03em;
 }
